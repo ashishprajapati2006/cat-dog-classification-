@@ -1,4 +1,4 @@
-#Cat vs Dog Image Classification
+# Cat vs Dog Image Classification
 
 This project implements an image classifier to distinguish between cats and dogs using Keras in a Google Colab environment.
 
